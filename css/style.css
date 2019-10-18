@@ -1,0 +1,37 @@
+*{
+  margin:0 auto;
+  padding:0;
+  box-sizing: border-box;
+}
+body{
+  background-color: chocolate;
+}
+h1{
+  padding:10px 0;
+  text-align: center;
+  letter-spacing: 2px;
+  font-family: sans-serif;
+}
+#content-area{
+ 
+}
+tr{
+  padding:5px;
+  margin: 2px;
+}
+.input-lable{
+  padding:10px;
+  width:70%;
+  background-color: white;
+  margin: 10px;
+}
+input{
+  display: inline-block;;
+  padding: 10px;
+  display: inline-block;
+  width:50%;
+  /* border: 0; */
+}
+label{
+  width:50%;
+}
